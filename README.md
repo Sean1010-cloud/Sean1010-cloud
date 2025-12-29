@@ -6,4 +6,4 @@
 
 ## I mainly write code in Java, using softwares like Eclipse and IntelliJ.
 
-## Fun fact: My favourite hobby is gaming
+Fun fact: My favourite hobby is gaming
