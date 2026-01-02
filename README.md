@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sean, a software engineer major at York University from Canada.
+I'm Sean, a software engineer major at York University, from Canada.
 
 I like coding projects that I will learn from and allow me to further develop my skills.
 
